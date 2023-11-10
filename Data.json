@@ -1,0 +1,32 @@
+[
+  {
+    "name": "SpongeBob SquarePants",
+    "species": "Sea sponge",
+    "occupation": "Fry cook at the Krusty Krab",
+    "personality": "Optimistic, cheerful, and carefree",
+  },
+  {
+    "name": "Patrick Star",
+    "species": "Starfish",
+    "occupation": "SpongeBob's best friend",
+    "personality": "Lazy, dimwitted, but lovable",
+  },
+  {
+    "name": "Squidward Tentacles",
+    "species": "Squid",
+    "occupation": "Cashier at the Krusty Krab",
+    "personality": "Sarcastic, grumpy, and pessimistic",
+  },
+  {
+    "name": "Mr. Krabs",
+    "species": "Crab",
+    "occupation": "Owner of the Krusty Krab",
+    "personality": "Greedy, stingy, but loves his daughter Pearl",
+  },
+  {
+    "name": "Sandy Cheeks",
+    "species": "Squirrel",
+    "occupation": "Scientist and SpongeBob's friend",
+    "personality": "Intelligent, adventurous, and athletic",
+  }
+]
